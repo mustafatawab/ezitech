@@ -34,7 +34,7 @@ function Services() {
         <div className='w-1/2 space-y-4 '>
             <p  className='text-[#64F4AB]'>My Skills</p>
             <h1 className='text-3xl font-bold'>Why Hire Me For The Next Project?</h1>
-            <p>The technological revolution is changing aspect of our lives, and the fabric of society itself. it's also changing the way we learn and what we learn. Factual knowledge is less prized when everything you ever need to know can be found on your phone. There's no imperative to be an expert at doing everything when you can.</p>
+            <p>The technological revolution is changing aspect of our lives, and the fabric of society itself. it iss also changing the way we learn and what we learn. Factual knowledge is less prized when everything you ever need to know can be found on your phone. There is no imperative to be an expert at doing everything when you can.</p>
             <PrimaryButton text='Download CV' link='/'/>
         </div>
     </div>
