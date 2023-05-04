@@ -8,11 +8,11 @@ function HeroSection() {
       <div className="w-1/3 space-y-5">
         <p className="text-[#64F4AB] ">Introducing</p>
         <h1 className="text-6xl font-bold ">Hello </h1>
-        <h1 className="text-6xl font-bold  ">I'm Jessy</h1>
+        <h1 className="text-6xl font-bold  ">I am Jessy</h1>
         <h1 className="text-6xl font-bold  ">Walter</h1>
         <p className="text-xl">
           Since beginning my journey as a freelance designer nearby 7 years ago,
-          I 've done remote work for agencies, consulted for startup, and
+          I have done remote work for agencies, consulted for startup, and
           collaborated with talented people to create digital products.
         </p>
         <PrimaryButton text="Contact Me" link="/" />
